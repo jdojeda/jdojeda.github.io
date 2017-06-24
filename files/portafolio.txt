@@ -1,0 +1,5 @@
+PORTAFOLIO
+==========
+
+Ejemplo de uso para crear una carpeta en el almacenamiento interno del dispositivo.
+Crea también un archivo de texto.
