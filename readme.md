@@ -1,1 +1,1 @@
-Progando VIM con GIT.
+Probando VIM con GIT.
