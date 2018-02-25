@@ -1,2 +1,3 @@
-dsfasdfasdfadsaf>>>>>Probando VIM con GIT.
+#Probando VIM con GIT.
+
 user:jdojeda
